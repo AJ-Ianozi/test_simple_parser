@@ -1,0 +1,15 @@
+name = "test_simple_parser"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Your Name"]
+maintainers = ["AJ Ianozi <aj@ianozi.com>"]
+maintainers-logins = ["AJ-Ianozi"]
+licenses = "GFDL-1.3-or-later"
+website = ""
+tags = []
+
+executables = ["test_simple_parser"]
+
+[[depends-on]]
+simple_components = "^4.68.0"
